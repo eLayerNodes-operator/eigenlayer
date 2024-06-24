@@ -1,5 +1,5 @@
 {
-	"name": "eLayerNodes-operator",
+	"name": "eLayerNodes",
 	"website": "https://github.com/eLayerNodes-operator/eigenlayer",
 	"description": "Operator running AVSs",
 	"logo": "https://raw.githubusercontent.com/eLayerNodes-operator/eigenlayer/main/el.png",
